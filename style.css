@@ -2,6 +2,7 @@
 	Font-Family: Oswald, Open-Sans; 
 	margin: 0;
 	padding: 0;
+	overflow-x: hidden;
 }
 #header{
 	min-height: 100vh;
